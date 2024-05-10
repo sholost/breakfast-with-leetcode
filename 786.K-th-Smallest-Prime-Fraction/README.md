@@ -26,9 +26,9 @@ func kthSmallestPrimeFraction(_ arr: [Int], _ k: Int) -> [Int] {
 
 Explanation:
 
-1. Alocate an array to store combination of possible fraction
-2. Iterarting through array and store the combination of possible fraction into `frac` (O(n \* n))
-3. Sort from the smallest fraction into greatest fraction (O(n log n))
+1. Allocate an array to store combination of possible fraction
+2. Iterarting through array and store the combination of possible fraction into `frac` _(O(n \* n))_
+3. Sort from the smallest fraction into greatest fraction _(O(n log n))_
 
 Overall Time Complexity: O(n \* n)
 
