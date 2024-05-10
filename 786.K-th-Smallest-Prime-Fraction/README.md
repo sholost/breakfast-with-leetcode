@@ -1,6 +1,8 @@
 # 786. K-th Smallest Prime Fraction
 
-### My Approach:
+[Link to problem](https://leetcode.com/problems/k-th-smallest-prime-fraction/)
+
+## Initial Approach:
 
 ```Swift
 func kthSmallestPrimeFraction(_ arr: [Int], _ k: Int) -> [Int] {
