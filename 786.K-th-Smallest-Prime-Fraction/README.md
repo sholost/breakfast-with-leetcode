@@ -28,7 +28,7 @@ Explanation:
 2. Iterarting through array and store the combination of possible fraction into `frac` (O(n \* n))
 3. Sort from the smallest fraction into greatest fraction (O(n log n))
 
-Overall Time Complexity: O(n _ n _ log n)
+Overall Time Complexity: O(n \* n)
 
 ## Optimization Approaches
 
