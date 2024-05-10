@@ -30,8 +30,8 @@ Explanation:
 
 Overall Time Complexity: O(n _ n _ log n)
 
-### Optimization Approaches
+## Optimization Approaches
 
-# 1. Binary Search
+### 1. Binary Search
 
 TBA
